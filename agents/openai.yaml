@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viper的美食地图"
+  short_description: "Viper的美食地图：使用随包收藏，按城市、人数和口味偏向推荐餐厅"
+  default_prompt: "使用 $viper-food-map（Viper的美食地图），结合这次的城市、人数和口味，从分享的收藏库中推荐美食。"

@@ -1,0 +1,21 @@
+{
+  "version": "2026.10.08.1",
+  "repository": "https://github.com/Viper7725/viper-food-map",
+  "branch": "main",
+  "released_at": "2026-10-08T19:28:28+08:00",
+  "sha256": {
+    ".gitattributes": "583faf967c99b30cb6bbd35810c0630f143f7ace4e725ee185a50bcf8fcf7a4b",
+    ".gitignore": "a4f5feb800e5f1b713095870a6336780b81a3b20c8aacd84af9f6ddb79e7736b",
+    "MAINTAINING.md": "0cfa83200647315d2aca858b736fcc8835f991038aa19798aefc7cbf0e88532b",
+    "README.md": "c2c3b83f240cccf8af3dabffe58af270d1c5aa8bd210550a4d99149e38170701",
+    "SKILL.md": "89f0345e214ed2a6ccfac09164d4cb4ff68a20d14f9283a95fe3c1ae6ca893c6",
+    "agents/openai.yaml": "e0346e501f32cee6d3a75bf00af0b820dc68839c4bc84d9d6580a19b9fff2274",
+    "data/favorites.json": "178563b1f816205d4405406c35b5213e916ad3a5bfe3660aa43c265f9e8cfc6d",
+    "data/preferences.example.json": "41f653cdc03d8337a4e1d0c1dbd4c43c97ac895c9e230cd7be676abca8d48f95",
+    "references/collection-origin.md": "014e0e73db5ad7ea5a05c2c349ac33930cb1c7ce8f13b51d020874cbfd814954",
+    "references/personal-data.md": "fff2b42f6a1ba67f769c0c6f7b4735f09a422cccb98e65ae2c6fe92c1287907b",
+    "scripts/check_update.py": "636081a146294584bb132808064cbda55a9c398489f8459be1cd3b5b0c821ba9",
+    "scripts/prepare_release.py": "40e340f6104f71e703cebf4c3b2994798b634b044136ace7630b0c9f232d0d23",
+    "scripts/query_food.py": "be2baa42e9ea573ae8a3f1847e8dcaeb03e6eab7cce4b3343c1d35cf88e2bdbc"
+  }
+}

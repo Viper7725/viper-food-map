@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "recommendation_priorities": {
+    "dimensions": [
+      "party_size",
+      "taste_preference",
+      "city"
+    ],
+    "ordered": false,
+    "source": "工具默认筛选维度，非使用者已确认的具体偏好。"
+  },
+  "long_term": {
+    "cities": [],
+    "party_size": null,
+    "taste_preferences": [],
+    "dietary_restrictions": [],
+    "budget_per_person": null,
+    "confirmed_at": null,
+    "source": null
+  },
+  "unknown_value_policy": "空数组或 null 表示使用者尚未提供，不代表不限或无忌口。",
+  "save_policy": "本次用餐条件不自动保存为长期偏好；仅按使用者明确要求更新。"
+}
